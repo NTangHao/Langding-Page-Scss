@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87403a6e-8560-4834-9634-f8257a56a1e0" name="Changes" comment="" />
+    <list default="true" id="87403a6e-8560-4834-9634-f8257a56a1e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/README-template.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +16,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DHpq4K4yctdgjTQiIScEoJNQvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,7 +94,7 @@
       <workItem from="1662209729481" duration="2719000" />
       <workItem from="1662260454169" duration="723000" />
       <workItem from="1662297614233" duration="2008000" />
-      <workItem from="1662369067166" duration="6628000" />
+      <workItem from="1662369067166" duration="7038000" />
     </task>
     <servers />
   </component>

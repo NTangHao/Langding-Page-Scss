@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ntanghao.github.io/Langding-Page-Scss/)
 
 ## My process
 
@@ -67,9 +67,8 @@ Making full page with react
 
 
 ## Author
-- Name: Nguyễn Tăng Hảo
-- Website - [LandingPage](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [LandingPage](https://ntanghao.github.io/Langding-Page-Scss/)
+- Frontend Mentor - [Nguyễn Tăng Hảo](https://www.frontendmentor.io/profile/NTangHao)
+
 
 

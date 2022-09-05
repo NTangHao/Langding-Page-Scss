@@ -1,0 +1,94 @@
+@use '../abstracts' as *;
+
+.footer {
+  // .footer__container
+  background-color: $clr-primary-1;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+  &__container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px 0;
+
+  }
+
+  //.footer__main{
+  &__main {
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr 1fr;
+    grid-gap: 0 126px;
+
+  }
+
+  // .footer__contact
+  &__contact {
+    display: flex;
+    flex-direction: column;
+    gap: 25px 0;
+
+  }
+
+
+  // .footer__phone
+  &__phone {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  // .footer__mail
+  &__mail {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+}
+
+.footer-menu {
+  list-style-type: none;
+}
+
+.footer-menu-item:not(:last-child) {
+  margin-bottom: 46px;
+}
+
+.footer-menu-link {
+color: inherit;
+  &:hover{
+    color: $clr-accent-1;
+  }
+}
+
+.social {
+  display: flex;
+  gap: 0 20px;
+
+}
+
+.social-item {
+  color: white;
+  &:hover{
+    color: $clr-accent-2;
+  }
+}
+
+
+
+.footer-menu:first-child {
+  margin-top: 9px;
+}
+
+@include responsive(tablet){
+
+  .footer__main{
+  grid-template-columns: 100%;
+  gap: 70px 0;
+  }
+
+  .footer__logo{
+    justify-self: center;
+  }
+}

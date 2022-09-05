@@ -1,0 +1,109 @@
+@use '../abstracts' as *;
+
+.hero {
+  // .hero__container
+  margin-top: 100px;
+  padding-bottom: 150px;
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  // .hero__content
+  &__content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 585px;
+
+  }
+
+  // .hero__heading
+  &__heading {
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: calc(70 / 50);
+
+  }
+
+  // .hero__desc
+  &__desc {
+    margin: 25px 0;
+    line-height: calc(30 / 16);
+    max-width: 510px;
+  }
+
+  // .hero__form
+  &__form {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 0 15px;
+    max-width: 540px;
+  }
+
+  // .hero__image
+  &__image {
+  }
+
+  &__input {
+    padding: 0 20px;
+    border-radius: 3px;
+    box-shadow: 0 1rem 3rem rgba(#000,0.1);
+  }
+  &__input::placeholder {
+    font-size: 16px;
+  }
+}
+
+
+.button {
+  text-align: center;
+  color: $clr-white;
+  padding: 1.25em;
+  border-radius: 3px;
+  font-weight: 700;
+  white-space: nowrap !important;
+  box-shadow: 0 1rem 3rem rgba(#000,0.1);
+  transition: 0.3s;
+
+  &:hover {
+    transform: scale(0.95);
+  }
+}
+
+.button--primary {
+  background-color: $clr-accent-2;
+
+}
+
+@include responsive(tablet){
+
+  .hero__container{
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .hero__form{
+    display: grid;
+    grid-template-columns: auto;
+    gap: 20px 15px;
+  }
+  .hero__input{
+    padding: 1em;
+    border-radius: 5px;
+  }
+}
+
+
+
+.valid {
+  border: 1px solid #86e7ad;
+}
+
+.invalid {
+  border: 1px solid red;
+}

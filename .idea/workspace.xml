@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87403a6e-8560-4834-9634-f8257a56a1e0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="editable-svg" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DHpq4K4yctdgjTQiIScEoJNQvU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;NewWatcherDialog.advanced.open&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Javascript Learning/LEARNING WITH KEVIN/FrontEnd mentor/fylo-landing-page-with-two-column-layout-master/fylo-landing-page-with-two-column-layout-master/images&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;extract.css.actions.ExtractCSSConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Javascript Learning\LEARNING WITH KEVIN\FrontEnd mentor\fylo-landing-page-with-two-column-layout-master\fylo-landing-page-with-two-column-layout-master\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87403a6e-8560-4834-9634-f8257a56a1e0" name="Changes" comment="" />
+      <created>1660366051381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660366051381</updated>
+      <workItem from="1660366053409" duration="362000" />
+      <workItem from="1660366447588" duration="140000" />
+      <workItem from="1660366598219" duration="792000" />
+      <workItem from="1660367725645" duration="796000" />
+      <workItem from="1660373187838" duration="1200000" />
+      <workItem from="1660377766077" duration="606000" />
+      <workItem from="1660655162495" duration="3463000" />
+      <workItem from="1660720395119" duration="9129000" />
+      <workItem from="1660738652230" duration="5440000" />
+      <workItem from="1660803549430" duration="6988000" />
+      <workItem from="1660826088492" duration="602000" />
+      <workItem from="1660897219190" duration="2819000" />
+      <workItem from="1660912897340" duration="2024000" />
+      <workItem from="1660983124800" duration="5804000" />
+      <workItem from="1660998394504" duration="791000" />
+      <workItem from="1661085216078" duration="601000" />
+      <workItem from="1661137595721" duration="601000" />
+      <workItem from="1661158110830" duration="1211000" />
+      <workItem from="1661170851853" duration="3089000" />
+      <workItem from="1661241121736" duration="5315000" />
+      <workItem from="1661257330115" duration="4459000" />
+      <workItem from="1661307569745" duration="621000" />
+      <workItem from="1661321877117" duration="669000" />
+      <workItem from="1661333375234" duration="877000" />
+      <workItem from="1661414878223" duration="3174000" />
+      <workItem from="1661520130445" duration="1698000" />
+      <workItem from="1661585553878" duration="3986000" />
+      <workItem from="1661760821205" duration="3978000" />
+      <workItem from="1661779298881" duration="3889000" />
+      <workItem from="1661850566958" duration="1441000" />
+      <workItem from="1661861919981" duration="1725000" />
+      <workItem from="1661932342697" duration="8036000" />
+      <workItem from="1661949385633" duration="3627000" />
+      <workItem from="1662018441981" duration="2156000" />
+      <workItem from="1662036339580" duration="4634000" />
+      <workItem from="1662105408028" duration="7196000" />
+      <workItem from="1662122771810" duration="2048000" />
+      <workItem from="1662193818731" duration="3961000" />
+      <workItem from="1662209729481" duration="2719000" />
+      <workItem from="1662260454169" duration="723000" />
+      <workItem from="1662297614233" duration="2008000" />
+      <workItem from="1662369067166" duration="6628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,52 @@
+@mixin clearfix {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin absCenter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/*Create breakpoint for project*/
+
+/*
+375px: Mobile
+768px: Tablet
+1280px: Laptop
+1920px: Desktop
+
+
+*/
+
+@mixin responsive($breakpoint) {
+  @if ($breakpoint == mobile) {
+    @media only screen and (max-width: 374px) {
+
+      @content;
+    }
+  }
+  @if ($breakpoint == tablet) {
+    @media only screen and (max-width: 970px) {
+
+      @content;
+    }
+  }
+  @if ($breakpoint == laptop) {
+    @media only screen and (max-width: 1279px) {
+
+      @content;
+    }
+  }
+  @if ($breakpoint == desktop) {
+    @media only screen and (max-width: 1920px) {
+
+      @content;
+    }
+  }
+}
